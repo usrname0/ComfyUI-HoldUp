@@ -10,6 +10,6 @@ Repository = "https://github.com/usrname0/comfyui-holdup"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "usrname0"
 DisplayName = "comfyui-holdup"
 Icon = ""
