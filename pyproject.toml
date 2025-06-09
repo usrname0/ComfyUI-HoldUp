@@ -1,5 +1,5 @@
 [project]
-name = "ComfyUI-HoldUp"
+name = "HoldUp"
 description = "A ComfyUI node that waits for a GPU temp and/or a number of seconds."
 version = "1.0.1"
 license = {file = "LICENSE"}
