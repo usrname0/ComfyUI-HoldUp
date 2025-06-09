@@ -1,15 +1,15 @@
 [project]
-name = "holdup"
+name = "ComfyUI-HoldUp"
 description = "A ComfyUI node that waits for a GPU temp and/or a number of seconds."
 version = "1.0.0"
 license = {file = "LICENSE"}
 dependencies = ["gputil"]
 
 [project.urls]
-Repository = "https://github.com/usrname0/comfyui-holdup"
+Repository = "https://github.com/usrname0/ComfyUI-HoldUp"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
 PublisherId = "usrname0"
-DisplayName = "comfyui-holdup"
+DisplayName = "ComfyUI-HoldUp"
 Icon = ""
