@@ -7,7 +7,7 @@ Completely redone but based off of gpucooldown: https://github.com/wmsouza/comfy
 Clone to "custom_nodes"
 
 ```
-git clone https://github.com/usrname0/comfyui-holdup.git
+git clone https://github.com/usrname0/ComfyUI-HoldUp.git
 ```
 
 ## Usage
