@@ -21,6 +21,11 @@ Project inspired by my deep and abiding mistrust of the 12VHPWR connector.
 ### Via ComfyUI Manager (Recommended)
 Search for "HoldUp" in ComfyUI Manager and install. Dependencies will be installed automatically.
 
+### Via Comfy Registry
+```
+comfy node install holdup
+```
+
 ### Manual Installation
 Clone to "custom_nodes" and install dependencies:
 
