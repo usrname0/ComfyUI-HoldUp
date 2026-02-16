@@ -27,7 +27,7 @@ class HoldUp:
     OUTPUT_NODE = False
 
     @classmethod
-    def IS_CHANGED(cls, input, use_waitTemperature, waitTemperature, waitSeconds):
+    def IS_CHANGED(cls, **kwargs):
         # Always execute to ensure wait happens
         return float("nan")
 
